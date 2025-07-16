@@ -1,0 +1,13 @@
+name = "RespawningAnimals"
+filename = "RespawningAnimals-v8.1.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WnwcSeWc/versions/irtVKuXe/RespawningAnimals-v8.1.1-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "602fe44e848b04e84da4dc0afcccc24145fcc3ec168ed546e7e05e0a3a66e9071f89105e209a4ad4bbbd3de25e4a1afb2587f7334ff8e19d504aea4ef03427e6"
+
+[update]
+[update.modrinth]
+mod-id = "WnwcSeWc"
+version = "irtVKuXe"

@@ -1,0 +1,13 @@
+name = "dungeonz"
+filename = "dungeonz-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/11jwniuC/versions/EGLBlhmV/dungeonz-1.0.3.jar"
+hash-format = "sha512"
+hash = "f965732212b26e45cf191be0001e53a0cc274a4d95ffdfa0f58f60a167f29f6dcd1936fc4d0fb36e7892d208e85954913fe2a480116bec9c0553adc564b8f831"
+
+[update]
+[update.modrinth]
+mod-id = "11jwniuC"
+version = "EGLBlhmV"

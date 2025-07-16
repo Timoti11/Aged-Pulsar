@@ -1,0 +1,13 @@
+name = "eugenes"
+filename = "eugenes-wealthy-plains-village-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYcNKW0i/versions/zWjgoRWa/eugenes-wealthy-plains-village-1.0.1.jar"
+hash-format = "sha512"
+hash = "7f2f8fcd32fa9858b1944ea6de33639845cdca3efd8a6d7af13fae078df3cad361e23cfbd42cb4cd93e76a304d6976fdd190d31ea845e34276fdc40d3e54b09c"
+
+[update]
+[update.modrinth]
+mod-id = "XYcNKW0i"
+version = "zWjgoRWa"

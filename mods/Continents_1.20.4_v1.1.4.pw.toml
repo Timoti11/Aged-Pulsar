@@ -1,0 +1,13 @@
+name = "Continents_1.20.4_v1.1.4.jar"
+filename = "Continents_1.20.4_v1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/WHW8ec8k/Continents_1.20.4_v1.1.4.jar"
+hash-format = "sha512"
+hash = "2347c5f80c88d278bac3e9b8472ddc18405110b53a365126b3ae4a485c9e416024f125b98dac2ee863a3ced6a0ccc353ff4ad9aa3e1ec5a8197bfd02eb176608"
+
+[update]
+[update.modrinth]
+mod-id = "bQ5TJA1E"
+version = "WHW8ec8k"

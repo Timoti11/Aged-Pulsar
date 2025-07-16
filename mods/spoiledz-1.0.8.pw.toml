@@ -1,0 +1,13 @@
+name = "spoiledz"
+filename = "spoiledz-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WBzldFmc/versions/fthsYryv/spoiledz-1.0.8.jar"
+hash-format = "sha512"
+hash = "229d32c34dc2596c2172c6721db01954b5cc084943c3b95f326cb9378f2aecf60fba51d4818d1abf7727346730116410463b4d7a2b0f44e627fd4b5d26abb2ff"
+
+[update]
+[update.modrinth]
+mod-id = "WBzldFmc"
+version = "fthsYryv"

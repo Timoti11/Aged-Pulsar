@@ -1,0 +1,13 @@
+name = "elytratrims"
+filename = "elytratrims-fabric-2.0.0-beta.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/Tye2YulM/elytratrims-fabric-2.0.0-beta.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "edc538423c5dc065c0aec8be1447b8cf3d03422ea7f9d075f1f1db7b492c64663dadf4b91bc95f350d5d4e95bd68c105c4ec3b1901b52bf0f906833bc752bb12"
+
+[update]
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "Tye2YulM"

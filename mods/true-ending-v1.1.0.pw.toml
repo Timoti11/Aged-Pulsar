@@ -1,0 +1,13 @@
+name = "true"
+filename = "true-ending-v1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MCnBYP0b/versions/idjGPflj/true-ending-v1.1.0.jar"
+hash-format = "sha512"
+hash = "d9d370bc1e517ca519c8082e67a56a3ecbbe41f042d651142831c3ad097aea402b4b9ce77730cba2c4cfa8ae5050096f47d86dbbb49a590c99f3f4ecc72b615b"
+
+[update]
+[update.modrinth]
+mod-id = "MCnBYP0b"
+version = "idjGPflj"

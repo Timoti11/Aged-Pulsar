@@ -1,0 +1,13 @@
+name = "mcw"
+filename = "mcw-fences-1.0.7-mc1.20.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/CUHvTrx4/mcw-fences-1.0.7-mc1.20.1fabric.jar"
+hash-format = "sha512"
+hash = "e106f6fa36246358dae09b0a9f2b166ee794a15731b08c0ead351aa0df772f6d7488c3ca49a17e23d73f32604315a1a99b2118a28b4ca4b808cfbaede7d829c4"
+
+[update]
+[update.modrinth]
+mod-id = "GmwLse2I"
+version = "CUHvTrx4"

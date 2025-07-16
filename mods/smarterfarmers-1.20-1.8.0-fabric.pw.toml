@@ -1,0 +1,13 @@
+name = "smarterfarmers"
+filename = "smarterfarmers-1.20-1.8.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/G1EMeer8/smarterfarmers-1.20-1.8.0-fabric.jar"
+hash-format = "sha512"
+hash = "7100946b5ae8cf4efc7ea43edb9db764d2534c2167c6765552bdd6e34a38e8a9adb0e2adbb4b427854555bf3261c398fe198f5b72a81314a2c615d516bbbce42"
+
+[update]
+[update.modrinth]
+mod-id = "Bh6ZOMvp"
+version = "G1EMeer8"

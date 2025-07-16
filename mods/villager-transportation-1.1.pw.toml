@@ -1,0 +1,13 @@
+name = "villager"
+filename = "villager-transportation-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vLUPqRLH/versions/1OujLueL/villager-transportation-1.1.jar"
+hash-format = "sha512"
+hash = "f996fee3b915c936e91a6e25c0d0b5d993ae02335e3591284fa059e04dbd9932935de52767b5e2670951f406885855509e86169ca38911bab0ee081794d7a6b5"
+
+[update]
+[update.modrinth]
+mod-id = "vLUPqRLH"
+version = "1OujLueL"

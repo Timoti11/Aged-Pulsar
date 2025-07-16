@@ -1,0 +1,13 @@
+name = "suggestion"
+filename = "suggestion-tweaker-1.20-1.5.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/RJeuHy76/suggestion-tweaker-1.20-1.5.1-fabric.jar"
+hash-format = "sha512"
+hash = "a4dd3c9842322a4d5ade9e38069e978a91f1f4ab4fa13e1243c44760ada28ac8fd0b34e409a66c3c49d0a6ee6a1073eb40ecf293bb79ea6b815d13a4e78db806"
+
+[update]
+[update.modrinth]
+mod-id = "MBLj38R0"
+version = "RJeuHy76"

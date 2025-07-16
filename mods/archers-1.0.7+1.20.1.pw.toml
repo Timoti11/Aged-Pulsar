@@ -1,0 +1,13 @@
+name = "archers"
+filename = "archers-1.0.7+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/8ZAr68x7/archers-1.0.7%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "5ad3919f113c31b2fc3ab96211d006804b8f828cb2fe4034682977a3df2f21859f79d201e4e15635cc044a9cb435248bee5efebf1f0ed73d12200488199bdf20"
+
+[update]
+[update.modrinth]
+mod-id = "QgooUXAJ"
+version = "8ZAr68x7"

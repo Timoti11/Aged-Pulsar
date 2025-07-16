@@ -1,0 +1,13 @@
+name = "jobsaddon"
+filename = "jobsaddon-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/whv2X0ei/versions/O5Dwe2wR/jobsaddon-1.1.5.jar"
+hash-format = "sha512"
+hash = "6b0ea0d349dda28d4f450aeeb7665432e18955998c612fb052eec9210d12d2b763cadf974fcfad249cb90aa95eb560d13ea20ebbbafdeb6a04eb16bd5212a098"
+
+[update]
+[update.modrinth]
+mod-id = "whv2X0ei"
+version = "O5Dwe2wR"

@@ -1,0 +1,13 @@
+name = "entity_texture_features_fabric_1.20.1"
+filename = "entity_texture_features_fabric_1.20.1-5.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/PrakWydh/entity_texture_features_fabric_1.20.1-5.2.1.jar"
+hash-format = "sha512"
+hash = "98ab4fabc9150b66fa458d37e5c9422970b721bc93a66d8216285b9203d0b2e5e468155727487264cca4f5f6acf9843a2ffc66891475eea4f751d58a87487731"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "PrakWydh"

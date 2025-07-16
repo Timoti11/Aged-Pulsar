@@ -1,0 +1,13 @@
+name = "numismaticclaim"
+filename = "numismaticclaim-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cf92nkgs/versions/AXBNJwPA/numismaticclaim-1.0.10.jar"
+hash-format = "sha512"
+hash = "cf5c7f2a224ce2813df32458f10949fa6ae89a0835182b481d6c7b113a4815f1a3b95bc65dffefae4f564899d6a4b2a4205ecfb8f3d79649a3db711eff444a2a"
+
+[update]
+[update.modrinth]
+mod-id = "Cf92nkgs"
+version = "AXBNJwPA"

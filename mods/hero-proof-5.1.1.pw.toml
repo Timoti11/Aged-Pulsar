@@ -1,0 +1,13 @@
+name = "hero"
+filename = "hero-proof-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDmztpJg/versions/CEKPFRP2/hero-proof-5.1.1.jar"
+hash-format = "sha512"
+hash = "3b3da95a87473a8271b07f32ece11c07ca3ab971a983788dd21b7a5574d37397694ddeaae2bafd247cd26e52501dd2e6d2060a525eae747f31ad9e441456bc04"
+
+[update]
+[update.modrinth]
+mod-id = "GDmztpJg"
+version = "CEKPFRP2"

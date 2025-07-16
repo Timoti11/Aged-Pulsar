@@ -1,0 +1,13 @@
+name = "gear_core"
+filename = "gear_core-0.3.7+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t7eXC8r7/versions/HIdVXPa1/gear_core-0.3.7%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "9a9cb7ba948a4e81a7d99481f8915b0adb25787be1ad5d609217f1f6f7dd6c6bd4c10159106906573a11cc4fc3da595acdd0f2f6f6838fd86de1a55c09d57db4"
+
+[update]
+[update.modrinth]
+mod-id = "t7eXC8r7"
+version = "HIdVXPa1"

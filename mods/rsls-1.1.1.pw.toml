@@ -1,0 +1,13 @@
+name = "rsls"
+filename = "rsls-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SKW62Pht/versions/jya7luDs/rsls-1.1.1.jar"
+hash-format = "sha512"
+hash = "581aed41577458472b4f894044a5703aa4470f06e5914e3e3ae3d5f6d60281e50fd5dd7c3663b553cc1b85504ce6e28f6e3ea098aedf7ab9ec0b2b8b44d54cdc"
+
+[update]
+[update.modrinth]
+mod-id = "SKW62Pht"
+version = "jya7luDs"

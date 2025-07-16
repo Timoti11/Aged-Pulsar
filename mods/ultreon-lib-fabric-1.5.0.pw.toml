@@ -1,0 +1,13 @@
+name = "ultreon"
+filename = "ultreon-lib-fabric-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/74g7isNi/versions/NbeWhN2Q/ultreon-lib-fabric-1.5.0.jar"
+hash-format = "sha512"
+hash = "c91d635bd636182d6c8fc8a620a65c97d48d869f35b61323cf48e08a5d0401a9649a5ee46c0b83a5b2655652be368997a970a5d0ddbd19ab1016a8a7a02d85c8"
+
+[update]
+[update.modrinth]
+mod-id = "74g7isNi"
+version = "NbeWhN2Q"

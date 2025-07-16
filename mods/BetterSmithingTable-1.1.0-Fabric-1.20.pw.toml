@@ -1,0 +1,13 @@
+name = "BetterSmithingTable"
+filename = "BetterSmithingTable-1.1.0-Fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vt8TI045/versions/QUipFQuL/BetterSmithingTable-1.1.0-Fabric-1.20.jar"
+hash-format = "sha512"
+hash = "d4d0753b7980b66f25c0331c105688496f665e64732edb71faea8b29f6d9f28581662e9deca4192f1143dbc6b289d0498facb38e8d92a0ed7952b2af15eeacd9"
+
+[update]
+[update.modrinth]
+mod-id = "Vt8TI045"
+version = "QUipFQuL"

@@ -1,0 +1,13 @@
+name = "reciperemover"
+filename = "reciperemover-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ydTNvAMp/versions/vG0sagiR/reciperemover-1.0.8.jar"
+hash-format = "sha512"
+hash = "3dbeffe19dd2f80a8f7ef4be40dd1024ab29cba5dfb155bd4d4abc58f6ba781599b4ea5410d9a030afe5b64566bb6170cb076421a6ab3ca2baa8421a974f4385"
+
+[update]
+[update.modrinth]
+mod-id = "ydTNvAMp"
+version = "vG0sagiR"

@@ -1,0 +1,13 @@
+name = "skeletalremains"
+filename = "skeletalremains-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uveZLBGh/versions/9TIdxWHK/skeletalremains-1.4.2.jar"
+hash-format = "sha512"
+hash = "5a48aaf82f5d52526af5102f620a16b0334ca252adcc1866942ef379611cb98dd4b2806ba1a1fa5fa72c7d429df6b7989f844d3185163ec4ca4e430a5ebcdc8e"
+
+[update]
+[update.modrinth]
+mod-id = "uveZLBGh"
+version = "9TIdxWHK"
