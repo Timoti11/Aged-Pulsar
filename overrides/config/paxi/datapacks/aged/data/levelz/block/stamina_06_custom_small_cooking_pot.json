@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 6,
-    "block": "minecraft:custom_block",
-    "object": "bakery:small_cooking_pot"
-}

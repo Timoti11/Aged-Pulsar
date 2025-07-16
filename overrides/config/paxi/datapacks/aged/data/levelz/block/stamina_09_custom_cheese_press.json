@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 9,
-    "block": "minecraft:custom_block",
-    "object": "meadow:cheese_form"
-}

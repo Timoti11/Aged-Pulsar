@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "alchemy",
-    "level": 17,
-    "entity": "minecraft:custom_entity",
-    "object": "minecraft:zombie_villager"
-}

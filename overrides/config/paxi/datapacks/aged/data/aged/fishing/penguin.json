@@ -1,8 +1,0 @@
-{
-    "input": {
-        "item": "minecraft:ice"
-    },
-    "result": {
-        "id": "mobcatalog:penguin"
-    }
-}

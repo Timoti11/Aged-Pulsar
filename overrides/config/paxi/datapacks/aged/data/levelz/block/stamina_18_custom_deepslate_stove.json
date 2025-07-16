@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 18,
-    "block": "minecraft:custom_block",
-    "object": "bakery:deepslate_stove"
-}

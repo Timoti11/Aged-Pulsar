@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "archery",
-    "level": 24,
-    "entity": "minecraft:custom_entity",
-    "object": "immersive_aircraft:biplane"
-}

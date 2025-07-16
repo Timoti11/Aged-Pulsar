@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 11,
-    "block": "minecraft:custom_block",
-    "object": "meadow:cooking_pot"
-}

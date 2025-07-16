@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 3,
-    "block": "minecraft:custom_block",
-    "object": "bakery:brick_stove"
-}

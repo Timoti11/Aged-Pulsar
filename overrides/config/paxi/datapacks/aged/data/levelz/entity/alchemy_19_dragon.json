@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "alchemy",
-    "level": 19,
-    "entity": "minecraft:custom_entity",
-    "object": "adventurez:dragon"
-}

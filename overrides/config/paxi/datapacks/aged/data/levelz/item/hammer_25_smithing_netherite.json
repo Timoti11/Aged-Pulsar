@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "smithing",
-    "level": 25,
-    "item": "minecraft:custom_item",
-    "object": "betterend:netherite_hammer"
-}

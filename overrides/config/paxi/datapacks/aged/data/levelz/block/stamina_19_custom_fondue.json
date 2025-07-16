@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 19,
-    "block": "minecraft:custom_block",
-    "object": "meadow:fondue"
-}
