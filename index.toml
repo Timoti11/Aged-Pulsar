@@ -5751,7 +5751,7 @@ metafile = true
 
 [[files]]
 file = "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.pw.toml"
-hash = "4598d6c12f9093f04304d8a3261c84ae2c2d5952d0ae8965078c87fe31dcc60f"
+hash = "15b51bd33a283cc202a34d8c23658c65b6bbc50be0d8187615ddc400b626c251"
 metafile = true
 
 [[files]]
@@ -5970,7 +5970,7 @@ metafile = true
 
 [[files]]
 file = "mods/YungsApi-1.20-Fabric-4.0.2.pw.toml"
-hash = "b58a2113941d5eeea02e01c8d2bb880d676db7b29030517706c55496acc583a1"
+hash = "95b4069d56bd7d1509adeb84f97b88b4b3b69216a53c9077e4cd5515005e85b8"
 metafile = true
 
 [[files]]
@@ -6317,8 +6317,8 @@ hash = "879c8d83762b9ddbe494a3e4dea1182f73691bd9f92683249fe7234232d0fb04"
 metafile = true
 
 [[files]]
-file = "mods/doapi-1.2.8-fabric.pw.toml"
-hash = "7c7776c1f3eb33819d7e20c83e75cf6e42a5a4fd5f87378a54983fa7a029bb01"
+file = "mods/do-api.pw.toml"
+hash = "2e35e00b33198b5520c0cdd91634cde20fa9b9bf5c52629bae60a1a25d567ed8"
 metafile = true
 
 [[files]]
@@ -6428,7 +6428,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api-0.91.0+1.20.1.pw.toml"
-hash = "4d4338f5abc791faa15727cbd0429367fcbf27386bb7331bfa3f837bfc4fa5a6"
+hash = "cfb8b300b4ab68dcb21d641e2823b5009ddd60b521e9c495e490c54644e332ec"
 metafile = true
 
 [[files]]
