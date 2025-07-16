@@ -1,13 +1,13 @@
 name = "YungsApi"
-filename = "YungsApi-1.20-Fabric-4.0.2.jar"
+filename = "YungsApi-1.20-Fabric-4.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/TT8tnzlH/YungsApi-1.20-Fabric-4.0.2.jar"
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar"
 hash-format = "sha512"
-hash = "ac1e0c5f2d8972123b45e4ac7ec711549acb6aedd2880696438df72fc2d4528f03217f3def371ecf65a1e480a41d35011cc7af1eb02885669879877af30dc3b5"
+hash = "90fea70f21cd09bdeefe9cb6bd23677595b32156b1b8053611449504ba84a21ee1e13e5a620851299090ce989f41b97b9b4bdc98def1ccecb33115e19553c64e"
 
 [update]
 [update.modrinth]
 mod-id = "Ua7DFN59"
-version = "TT8tnzlH"
+version = "lscV1N5k"
