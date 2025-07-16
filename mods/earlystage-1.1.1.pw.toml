@@ -1,0 +1,13 @@
+name = "earlystage"
+filename = "earlystage-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lw05gEDu/versions/HivO2Pxt/earlystage-1.1.1.jar"
+hash-format = "sha512"
+hash = "ee69bb20e47c967cf9349c3d67f8bc6a8beb5a154a099218755e3f9c902a74165e04b3b59bb18a78a6031fc64f87184759900cdfc2f4af14e353dcd1ec1d4849"
+
+[update]
+[update.modrinth]
+mod-id = "lw05gEDu"
+version = "HivO2Pxt"

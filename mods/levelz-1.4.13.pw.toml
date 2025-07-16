@@ -1,0 +1,13 @@
+name = "levelz"
+filename = "levelz-1.4.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFtixeiF/versions/gYSnmSW4/levelz-1.4.13.jar"
+hash-format = "sha512"
+hash = "00d41159afb16105ea27dfd09ea015341fbc1a058372f25d8244b7c9fc375c9ddae557c25e45169d5c6390da500a16739dbf35278e98132d1c373efc95a82bc7"
+
+[update]
+[update.modrinth]
+mod-id = "EFtixeiF"
+version = "gYSnmSW4"

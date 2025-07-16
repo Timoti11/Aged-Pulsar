@@ -1,0 +1,13 @@
+name = "guardvillagers"
+filename = "guardvillagers-2.0.8-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59rkB3YY/versions/Kzz6E5Ap/guardvillagers-2.0.8-1.20.1.jar"
+hash-format = "sha512"
+hash = "018d75390ca203cc969df647d783b57dd3ccc39c46bfd9f6e1f60442669f9c133099de4d664d9431e29826b4040ff7f2dbd2d9288fc4e3588a545b689361be70"
+
+[update]
+[update.modrinth]
+mod-id = "59rkB3YY"
+version = "Kzz6E5Ap"

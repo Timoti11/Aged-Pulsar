@@ -1,0 +1,13 @@
+name = "neruina"
+filename = "neruina-1.3.0-fabric+1.18.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1s5x833P/versions/S95lnn83/neruina-1.3.0-fabric%2B1.18.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "13b75bf616e2298aa336ffc8ca04efe2e54933ca0f93179d8f2e6de70764540736ee408a7d09f8e2784b3f698f5aa51d84a5d62c5c266657c374421f28342068"
+
+[update]
+[update.modrinth]
+mod-id = "1s5x833P"
+version = "S95lnn83"

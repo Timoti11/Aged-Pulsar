@@ -1,0 +1,13 @@
+name = "extra_details"
+filename = "extra_details-fabric-0.3-beta-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RQ7OrTFx/versions/eEDHhWnf/extra_details-fabric-0.3-beta-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "a01865c51f49249f5c612cdb379c158b80041044cf1aa88385d3bf711a4bb224e55ffc3ed32dbb5c1e7e89287e22511a101f68130064c426a2790a657ded27ce"
+
+[update]
+[update.modrinth]
+mod-id = "RQ7OrTFx"
+version = "eEDHhWnf"

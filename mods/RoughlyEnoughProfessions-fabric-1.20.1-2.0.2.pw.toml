@@ -1,0 +1,13 @@
+name = "RoughlyEnoughProfessions"
+filename = "RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8XJ8f5f/versions/ybcBEXlZ/RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "e403622285a4aa81c0bf6a0022910865eee2d949ed5bc7e47520764704f0b7e22d0a852ec145cef07cbc797aefee4a361c572563f7f72550db693510f60fc16f"
+
+[update]
+[update.modrinth]
+mod-id = "V8XJ8f5f"
+version = "ybcBEXlZ"

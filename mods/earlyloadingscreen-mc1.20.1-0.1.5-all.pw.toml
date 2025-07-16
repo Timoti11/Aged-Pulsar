@@ -1,0 +1,13 @@
+name = "earlyloadingscreen"
+filename = "earlyloadingscreen-mc1.20.1-0.1.5-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JVIyMkGt/versions/RtLPvt5z/earlyloadingscreen-mc1.20.1-0.1.5-all.jar"
+hash-format = "sha512"
+hash = "eab7fc276786c02253aa35fefffae4fe2b792eca60fb10d79660b58697fe8b3d08972eb947f5439d714a0b79b96ac2fecb7100c7c9ba9f1d8987ba75f4d0c4c4"
+
+[update]
+[update.modrinth]
+mod-id = "JVIyMkGt"
+version = "RtLPvt5z"

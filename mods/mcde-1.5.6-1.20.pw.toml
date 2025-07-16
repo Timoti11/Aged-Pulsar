@@ -1,0 +1,13 @@
+name = "mcde"
+filename = "mcde-1.5.6-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iwkcspV8/versions/J2yJSrxm/mcde-1.5.6-1.20.jar"
+hash-format = "sha512"
+hash = "a40625ca0bc469e05c732d8b4a4f30eb1844935756eacfc5079d08eef1a70f0b7d512ca90d55102afb299753a0ea93f55d78f85c4d4bd302240ee377a1e6dda2"
+
+[update]
+[update.modrinth]
+mod-id = "iwkcspV8"
+version = "J2yJSrxm"

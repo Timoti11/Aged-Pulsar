@@ -1,0 +1,13 @@
+name = "smitherz"
+filename = "smitherz-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/po8iVUhc/versions/eLWMZMdN/smitherz-1.0.2.jar"
+hash-format = "sha512"
+hash = "33fa6cc6198ec272e59eb574c6fd34ef0a2e1e981372e8c0d33426b1ee9b1d542f13225f21b3ea7e67506497a997ec70da6fdb1a3edb5ec5fe9a02f4e1016fb4"
+
+[update]
+[update.modrinth]
+mod-id = "po8iVUhc"
+version = "eLWMZMdN"

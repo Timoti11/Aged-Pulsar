@@ -1,0 +1,13 @@
+name = "herdspanic"
+filename = "herdspanic-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U64ZYLjC/versions/mCDiJJHc/herdspanic-1.0.7.jar"
+hash-format = "sha512"
+hash = "a85cc5e3fba20ac0df37013c3d94a8d8058052e1e6973dc3ee97b49b7b8e6634218c56f8e3eb37d070302d2bd1d7298aeba403fbdd26eecff81787fb03327050"
+
+[update]
+[update.modrinth]
+mod-id = "U64ZYLjC"
+version = "mCDiJJHc"

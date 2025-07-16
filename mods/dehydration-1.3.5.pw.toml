@@ -1,0 +1,13 @@
+name = "dehydration"
+filename = "dehydration-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qWDh3G0p/versions/nCkKBlDE/dehydration-1.3.5.jar"
+hash-format = "sha512"
+hash = "96921c703445469568cbdad895428917a18d1aa38f0ca610195aa4b64d0cdb6b624f47b2be1263ed230ad91e72373ea702418b362ec6309259f4ba2c245db12d"
+
+[update]
+[update.modrinth]
+mod-id = "qWDh3G0p"
+version = "nCkKBlDE"

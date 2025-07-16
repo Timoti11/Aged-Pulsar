@@ -1,0 +1,13 @@
+name = "suppsquared"
+filename = "suppsquared-1.20-1.1.12-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/ysZO6YQk/suppsquared-1.20-1.1.12-fabric.jar"
+hash-format = "sha512"
+hash = "87d1ab4af1a83134925485de0d7054942e3e425940635b0dfec1a6494d51ec34c8e4018c9de9e339e7e11048c641becfb229e26742b1e111b0fbfa9ad4b92801"
+
+[update]
+[update.modrinth]
+mod-id = "dCCkNFwE"
+version = "ysZO6YQk"

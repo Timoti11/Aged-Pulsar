@@ -1,0 +1,13 @@
+name = "travelerz"
+filename = "travelerz-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eagoVRnY/versions/E95jXCw9/travelerz-1.0.1.jar"
+hash-format = "sha512"
+hash = "0bbd25997eb93ee79de9d3ab505d18d083651dfcd9567863b092d31500db5b1fdf60905aba7f125fcc46884d24442f8ee3e23cb2c9950be363a75c2f5e75e6b3"
+
+[update]
+[update.modrinth]
+mod-id = "eagoVRnY"
+version = "E95jXCw9"

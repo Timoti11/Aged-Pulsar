@@ -1,0 +1,13 @@
+name = "blossom"
+filename = "blossom-fabric-1.20-pre4-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYVih5qu/versions/DaaIQvYx/blossom-fabric-1.20-pre4-1.0.7.jar"
+hash-format = "sha512"
+hash = "ef9fdf4b4ed2bef791f60225efae98af75297d10c3f334baa75d6f15c30283501a9dcd5b2f3e503363c3f6a82550c0d2b87832a37ae578099a868a064be1da1e"
+
+[update]
+[update.modrinth]
+mod-id = "iYVih5qu"
+version = "DaaIQvYx"

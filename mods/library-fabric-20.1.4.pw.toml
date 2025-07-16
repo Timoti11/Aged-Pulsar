@@ -1,0 +1,13 @@
+name = "library"
+filename = "library-fabric-20.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mWdDy9A0/versions/sWhP3ogE/library-fabric-20.1.4.jar"
+hash-format = "sha512"
+hash = "27a71b0130f6af8404f9a6e7e90cf2c22a1fc016661fa501e00b10c337a1e1d96640a8c7c54cd307fe49fca21d7d79cf417305d5848a42d8bd18684afa9d103f"
+
+[update]
+[update.modrinth]
+mod-id = "mWdDy9A0"
+version = "sWhP3ogE"

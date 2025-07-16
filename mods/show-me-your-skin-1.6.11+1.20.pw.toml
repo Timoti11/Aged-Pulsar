@@ -1,0 +1,13 @@
+name = "show"
+filename = "show-me-your-skin-1.6.11+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/nMEOfVi4/show-me-your-skin-1.6.11%2B1.20.jar"
+hash-format = "sha512"
+hash = "5ad7484ff8ee00173fa1ca58ce2a52ee1262ab5c96793d36b4570577d893c570e9cf9be0783d18361fda552b240954b443cad5db4dbd3bd6b7a90a2479946648"
+
+[update]
+[update.modrinth]
+mod-id = "bD7YqcA3"
+version = "nMEOfVi4"

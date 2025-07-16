@@ -1,0 +1,13 @@
+name = "letsdo"
+filename = "letsdo-bakery-fabric-1.1.3b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WFwYiVoG/versions/lAzNkomp/letsdo-bakery-fabric-1.1.3b.jar"
+hash-format = "sha512"
+hash = "0e722800be872ef2a28be4d24e69e7dc683a7c7d9561ecab04a94ec23dbb97d7dd2605bb14b84ff62dde87369e18b1b3ca8f8502991ac77b249cbd936d6b0657"
+
+[update]
+[update.modrinth]
+mod-id = "WFwYiVoG"
+version = "lAzNkomp"

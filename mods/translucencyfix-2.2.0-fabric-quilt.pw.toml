@@ -1,0 +1,13 @@
+name = "translucencyfix"
+filename = "translucencyfix-2.2.0-fabric-quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xp45cyDI/versions/5yFayuFq/translucencyfix-2.2.0-fabric-quilt.jar"
+hash-format = "sha512"
+hash = "99342dc167475cb3cc1c76abd138ca2a9aeefb09b75f55198ebb6e69ac19deb07fc132ebacb3db07b3f73476b1353d2a61216eb018faf0718983a72206233f4b"
+
+[update]
+[update.modrinth]
+mod-id = "xp45cyDI"
+version = "5yFayuFq"

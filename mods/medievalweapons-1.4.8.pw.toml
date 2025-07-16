@@ -1,0 +1,13 @@
+name = "medievalweapons"
+filename = "medievalweapons-1.4.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C37HUu02/versions/WP327lEb/medievalweapons-1.4.8.jar"
+hash-format = "sha512"
+hash = "c4f53d5611afe821cd96a81f37aad3491ffd05e1f2a953ca03bc0509ba9a2de33f4f2c67d10f431fdbb655258396513ac62eaa9c1681233f803bd8142ac48300"
+
+[update]
+[update.modrinth]
+mod-id = "C37HUu02"
+version = "WP327lEb"

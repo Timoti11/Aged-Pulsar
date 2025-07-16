@@ -1,0 +1,13 @@
+name = "deeper"
+filename = "deeper-oceans-mc1.20-v1.0.1a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yqHsPROA/versions/ueFgrdpD/deeper-oceans-mc1.20-v1.0.1a.jar"
+hash-format = "sha512"
+hash = "7b018eaef0ac1c854e24e96c759853a2c3042f0d90e2b9614d595ce7794b6b7a43dcaba2af20ca698b90ae3909b005c569bd532ca6fa0bff2fbf5f7a4f204884"
+
+[update]
+[update.modrinth]
+mod-id = "yqHsPROA"
+version = "ueFgrdpD"

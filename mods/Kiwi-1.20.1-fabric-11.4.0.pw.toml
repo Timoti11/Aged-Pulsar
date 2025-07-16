@@ -1,0 +1,13 @@
+name = "Kiwi"
+filename = "Kiwi-1.20.1-fabric-11.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/yjngTsCe/Kiwi-1.20.1-fabric-11.4.0.jar"
+hash-format = "sha512"
+hash = "b0bab948123578c724da5b2bf26b43494ab97071600c14d01d62b0b68d37c6753a0c18d5bba3bffed298250adbfd2ebb2ec19c38c3ba0c75d20f5d4ab44107da"
+
+[update]
+[update.modrinth]
+mod-id = "ufdDoWPd"
+version = "yjngTsCe"

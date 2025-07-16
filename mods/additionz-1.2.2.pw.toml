@@ -1,0 +1,13 @@
+name = "additionz"
+filename = "additionz-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QeSwHM7w/versions/2U6lxGNI/additionz-1.2.2.jar"
+hash-format = "sha512"
+hash = "c47c08488ac1a8bb769d6b90fd3f2971ecff12dbfd52b7f8079c54adeb037b89aafaf0abebd036fa0bda78cf5dc03e817692c2291810d79db04958327e07bd77"
+
+[update]
+[update.modrinth]
+mod-id = "QeSwHM7w"
+version = "2U6lxGNI"

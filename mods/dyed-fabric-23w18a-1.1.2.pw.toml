@@ -1,0 +1,13 @@
+name = "dyed"
+filename = "dyed-fabric-23w18a-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mFDTffy/versions/VOiC8SRs/dyed-fabric-23w18a-1.1.2.jar"
+hash-format = "sha512"
+hash = "f4785c87b480cd3a1ec671b76b6a385ef34354f95810e7241d7117931370b78ae8319fc0d9795f0254c4f9f3297feafb5ada33df1b4ec56c95019e86a1f47c29"
+
+[update]
+[update.modrinth]
+mod-id = "5mFDTffy"
+version = "VOiC8SRs"
