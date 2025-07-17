@@ -6428,7 +6428,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api-0.91.0+1.20.1.pw.toml"
-hash = "4d4338f5abc791faa15727cbd0429367fcbf27386bb7331bfa3f837bfc4fa5a6"
+hash = "cfb8b300b4ab68dcb21d641e2823b5009ddd60b521e9c495e490c54644e332ec"
 metafile = true
 
 [[files]]
@@ -6836,6 +6836,11 @@ hash = "3141a3b5d90d99dc0b50fc78b47fb0f1499d9a20cc5327ec573dfd5b9ab25ccd"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "ac36f967bfcec8a4811dafd92efe1300683cbabf7247f0fd9474ecf98649b689"
+metafile = true
+
+[[files]]
 file = "mods/partyaddon-1.0.4.pw.toml"
 hash = "63551c546c8740528ebc996c6a229f7ba058e4604c5c96af971c9e76c5810d7a"
 metafile = true
@@ -6918,6 +6923,11 @@ metafile = true
 [[files]]
 file = "mods/rsls-1.1.1.pw.toml"
 hash = "0c0d526c323dfe2960276f129b063b61e0152ac25fc1dede42e375469201ea18"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
 metafile = true
 
 [[files]]
@@ -7016,13 +7026,13 @@ hash = "9f8e676fcebd0bb5a59279936551e4b3c067cc6fd8a6fbca71efe239ae6facbf"
 metafile = true
 
 [[files]]
-file = "mods/spell_engine-0.12.5+1.20.1.pw.toml"
-hash = "80c4a2c36bde403b80278305a9b5792363fb53e04920ed9b0fe7afa459ea217e"
+file = "mods/spell-engine.pw.toml"
+hash = "65952d734381d9b368d4a3cf7d32ed4e736b16047b1def30934bbe2b079f6460"
 metafile = true
 
 [[files]]
 file = "mods/spell_power-fabric-0.9.19+1.20.1.pw.toml"
-hash = "3bb1292474cca484087103957a36907f40c81366d4bfcf242e456c8686f1a6ae"
+hash = "bfdd94ce76d00cfe99d02555edb0b50ad15080eaef3c472662d6c732f27d06a2"
 metafile = true
 
 [[files]]
