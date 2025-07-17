@@ -1,13 +1,13 @@
 name = "spell_power"
-filename = "spell_power-fabric-0.9.19+1.20.1.jar"
+filename = "spell_power-0.12.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8ooWzSQP/versions/4b3xYbpW/spell_power-fabric-0.9.19%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/8ooWzSQP/versions/G74msHHs/spell_power-0.12.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "87401919c1c3f53ec4ca40a3b31b764b5ee752af5b7e5215cf20d28cbd53fc92a4fcdb45be4dfbc0f7b472f4835728def4b6e66452cc87752a9b727faa9d33f1"
+hash = "9c3b57ee5a7732031889cfbbf86fc9087f67aec89af851ca35e1c76ead94a990beb478b27e9641d0353bf863a68b232593e3368d167b42bd24357ff8d6ba0861"
 
 [update]
 [update.modrinth]
 mod-id = "8ooWzSQP"
-version = "4b3xYbpW"
+version = "G74msHHs"
