@@ -1,0 +1,13 @@
+name = "More RPG Library"
+filename = "more_rpg_classes-1.2.16-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/CBJ3yxG7/more_rpg_classes-1.2.16-1.20.1.jar"
+hash-format = "sha512"
+hash = "d961d59776bbfba4527335af8998a0438f9d2a31ec56dfc4fdf1009c4cc36ccb1eefcacd5e1a89d9f0e59605adeecc23c5e67a9c9205e106fdb46176e9995690"
+
+[update]
+[update.modrinth]
+mod-id = "Wkc3lwHo"
+version = "CBJ3yxG7"
